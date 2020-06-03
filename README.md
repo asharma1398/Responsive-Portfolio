@@ -1,8 +1,8 @@
 # My Portfolio 
 
-[Deployed Application](https://asharma1398.github.io/)
+[Deployed Application](https://asharma1398.github.io/){:target="_blank" rel="noopener"}
 <br>
-[My GitHub](https://github.com/asharma1398)
+[My GitHub](https://github.com/asharma1398){:target="_blank" rel="noopener"}
 
 ### Overview  
 ***
