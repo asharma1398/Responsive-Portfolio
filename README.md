@@ -7,4 +7,8 @@
 ### Overview  
 ***
 
-This is the 
+Welcome to my portfolio! Here you can find out more about me, projects I'm working on and ways to connect with me further.
+
+In this project, I created a mobile-responsive site with HTML and Bootstrap. 
+
+Stay tuned for more project updates. 
